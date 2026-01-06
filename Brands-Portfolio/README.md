@@ -1,0 +1,1 @@
+This project aims at building reports to compare the financials of two brands H+ Sport and Binaryville. London Hotel, an international luxury hotel chain is considering diversifying its portfolio by buying either H+ Sport or Binaryville.
