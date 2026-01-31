@@ -1,2 +1,2 @@
 # Power-BI-Projects
-These folder has several Power BI projects. 
+These folder has several Power BI practice projects. 
